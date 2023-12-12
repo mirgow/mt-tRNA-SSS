@@ -8,7 +8,7 @@ mitochondrial-tRNA Steady State Simulator: An Application of GROMACS
 My interest was piqued when looking into two mitchondrial t-RNAs (mt-tRNAs), which have known base mutations and associated diseases but no molecular understanding of the downstream effects: mt-tRNA_{Leu} and mt-tRNA_{Lys}. These don't have known (crytallized) 3D structures in the PDB, either. However, secondary structures and overall bond topology is generally known. Speculative tertiary models can be generated with these data through [RNAvista](http://rnavista.cs.put.poznan.pl/Runs/Show/502e876e-ba02-424a-8ec1-cc13235dc0dc/2a19ebd6-a2bf-43e5-98d3-1003c8fc2c13), and then cross-validated with known tertiary structures for mt-tRNA_{Met} and mt-tRNA_{Val}. These latter two structures also may serve as controls for the simulation process. 
 
 Here's a graphical flowchart to describe the process.
-[Flowchart](images/FlowchartB.jpg)
+![Flowchart](images/FlowchartB.jpg)
 
 ## Navigation
 
