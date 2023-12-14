@@ -26,8 +26,12 @@ B: The process for speculative structures mt-tRNA_{Leu} and mt-tRNA_{Lys}, with 
 
 ### Execution
 
+There are 3 `.ipynb` notebooks within `/scripts` that contain all the code lines to run.
 
-
+Ordering of notebooks to run:
+1. PreprocessingPDB.ipynb
+2. RunningSimulations.ipynb
+3. RNAanalysis.ipynb
 
 ## Contact
 Much of this procedure and information is distilled, as a byproduct of research I conducted throughout college. If you'd like more information, feel free to contact me @`cybercyclonedude@gmail.com`!
